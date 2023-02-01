@@ -4,8 +4,7 @@ Prevent actions by user group
 
 
 ----
-Copyright (C) Andreas Hansson
-Based on denyactions by Otto Vainio <otto@valjakko.net>
+Fork from Andreas Hansson project https://github.com/adron1111/disableactionsbygroup/
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
